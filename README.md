@@ -1,0 +1,1 @@
+🎵 Created a custom music player using HTML, CSS, and JavaScript! 🎧 Designed with a sleek interface and interactive controls for seamless playback and user experience. Check out my portfolio for more projects like this! #WebDevelopment #MusicPlayer #HTML #CSS #JavaScript
